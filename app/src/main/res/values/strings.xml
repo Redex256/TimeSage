@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TimeSage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addTask">Додати Завдання</string>
+    <string name="Pomodoro">Таймер</string>
+    <string name="task">Список</string>
+    <string name="register">Маєте аккаунт? увійдіть в нього</string>
+    <string name="login">Немає аккаунту? створіть його</string>
+    <string name="btnreg">Реєстрація</string>
+    <string name="btnlog">Аутентифікація</string>
+    <string name="pause">Пауза</string>
+    <string name="resume">Продовжити</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="finish">Завершено</string>
+</resources>

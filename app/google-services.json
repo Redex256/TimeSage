@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "215828148277",
+    "firebase_url": "https://timesage-b0030-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "timesage-b0030",
+    "storage_bucket": "timesage-b0030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215828148277:android:4034b4a30f36dbc1db017c",
+        "android_client_info": {
+          "package_name": "com.example.timesage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAszQOLGHQPHnoVAxZoB4l2KVCEHAK1gfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
